@@ -1,0 +1,16 @@
+{
+  "name": "abstract-gear",
+  "version": "1.0.0",
+  "description": "A reliable math library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Atallabela Yosua",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "typescript": "^4.1.3"
+  }
+}
